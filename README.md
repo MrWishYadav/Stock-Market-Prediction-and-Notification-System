@@ -1,0 +1,2 @@
+# Stock-Market-Prediction-and-Notification-System
+: To conduct a stock market analysis for National Stock Exchange ( NSE) and Bombay Stock Exchange (BSE) in India. By using LSTM algorithm for the technical, fundamental, current affairs and miscellaneous analysis for prediction purposes. These analysis will keep track of the trend of all the listed Indian companies and it will store a useful feedback as history of the working day
